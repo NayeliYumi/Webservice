@@ -1,0 +1,301 @@
+Dealer,Make,Month,Brand,Consolidation,Categoria,No. of Units
+St Martin Cars,Nissan,Dec-16,Versa,Versa,Compact Cars,58.00
+St Martin Cars,Nissan,Dec-17,Kicks,Kicks,Compact SUV,40.00
+St Martin Cars,Nissan,Dec-16,March,March,Subcompact Cars,25.00
+St Martin Cars,Nissan,Jan-18,Kicks,Kicks,Compact SUV,24.00
+St Martin Cars,Nissan,Mar-18,Kicks,Kicks,Compact SUV,20.00
+St Martin Cars,Nissan,Nov-16,March,March,Subcompact Cars,19.00
+St Martin Cars,Dacia,Mar-18,Dokker,Dokker,Commercial Bus/Vans,18.00
+St Martin Cars,Nissan,Mar-18,Frontier,Frontier,Pick-Up,17.00
+St Martin Cars,Nissan,Mar-17,Kicks,Kicks,Compact SUV,16.00
+St Martin Cars,Nissan,May-18,Kicks,Kicks,Compact SUV,16.00
+St Martin Cars,Dacia,Sep-17,Dokker,Dokker,Commercial Bus/Vans,14.00
+St Martin Cars,Nissan,Nov-17,Kicks,Kicks,Compact SUV,14.00
+St Martin Cars,Dacia,Dec-17,Stepway,Stepway,Midsize SUV,14.00
+St Martin Cars,Nissan,Jul-18,Kicks,Kicks,Compact SUV,14.00
+St Martin Cars,Dacia,Dec-17,Duster,Duster,Large SUV,13.00
+St Martin Cars,Nissan,Aug-15,March,March,Subcompact Cars,3.00
+St Martin Cars,RENAULT,Aug-15,Captur,Captur,Automovil,4.00
+St Martin Cars,RENAULT,Aug-15,KANGOO,KANGOO,Automovil,1.00
+St Martin Cars,RENAULT,Aug-15,TWINGO,TWINGO,Automovil,1.00
+St Martin Cars,DACIA,Aug-15,DOKKER,DOKKER,Commercial Bus/Vans,1.00
+Soremar,Kia,Dec-11,Sorento,Sorento,Automovil,7.00
+Soremar,Kia,Dec-11,Sportage,Sportage,Automovil,20.00
+Soremar,KIA,Jul-12,Picanto,Picanto,Automovil,8.00
+Soremar,KIA,Jul-12,Rio,Rio,Automovil,4.00
+Soremar,KIA,Jul-12,Sorento,Sorento,Automovil,1.00
+Soremar,KIA,Jul-12,K Truck,K Truck,Automovil,1.00
+Soremar,KIA,Jul-12,Sportage,Sportage,Automovil,11.00
+Soremar,KIA,Jun-12,Cerato,Cerato,Automovil,7.00
+Soremar,KIA,Jun-12,Picanto,Picanto,Automovil,7.00
+Soremar,KIA,Jun-12,Rio,Rio,Automovil,6.00
+Soremar,KIA,Jun-12,Sorento,Sorento,Automovil,4.00
+Soremar,KIA,Jun-12,Sportage,Sportage,Automovil,13.00
+Soremar,KIA,May-12,Cerato,Cerato,Automovil,2.00
+Soremar,KIA,May-12,Optima,Optima,Automovil,2.00
+Soremar,KIA,May-12,Picanto,Picanto,Automovil,1.00
+Soremar,KIA,May-12,Rio,Rio,Automovil,3.00
+Soremar,KIA,May-12,Carnival,Carnival,Automovil,2.00
+Soremar,KIA,May-12,Sorento,Sorento,Automovil,1.00
+Real Auto,SUZUKI,Aug-11,APV,APV,Automovil,2.00
+Real Auto,SUZUKI,Aug-11,KIZASHI,KIZASHI,Automovil,1.00
+Real Auto,TOYOTA,Aug-11,Yaris,Yaris,Automovil,2.00
+Real Auto,TOYOTA,Aug-11,Corolla SD,Corolla SD,Automovil,3.00
+Real Auto,TOYOTA,Aug-11,Rav 4,Rav 4,Automovil,1.00
+Real Auto,TOYOTA,Aug-11,Prado,Prado,Automovil,1.00
+Real Auto,TOYOTA,Aug-11,Hiace,Hiace,Automovil,2.00
+Real Auto,TOYOTA,Aug-11,Hilux,Hilux,Automovil,2.00
+Real Auto,TOYOTA,Aug-11,Hilux,Hilux,Automovil,1.00
+Real Auto,TOYOTA,Aug-11,Hilux,Hilux,Automovil,1.00
+Real Auto,MMC,Aug-11,L-300,L-300,Automovil,1.00
+Real Auto,MMC,Aug-11,ASX,ASX,Automovil,3.00
+Real Auto,GM,Sep-11,Spark,Spark,Automovil,2.00
+Real Auto,GM,Sep-11,Aveo,Aveo,Automovil,1.00
+Real Auto,SUZUKI,Sep-11,CELERIO,CELERIO,Automovil,1.00
+Real Auto,SUZUKI,Sep-11,SWIFT,SWIFT,Automovil,4.00
+Real Auto,SUZUKI,Sep-11,SX4,SX4,Automovil,3.00
+Real Auto,SUZUKI,Sep-11,JIMNY,JIMNY,Automovil,2.00
+Real Auto,SUZUKI,Sep-11,Vitara,Vitara,Automovil,3.00
+Real Auto,SUZUKI,Sep-11,APV,APV,Automovil,2.00
+Real Auto,TOYOTA,Sep-11,Corolla SD,Corolla SD,Automovil,5.00
+Real Auto,TOYOTA,Sep-11,Rav 4,Rav 4,Automovil,2.00
+Real Auto,TOYOTA,Sep-11,4 Runner,4 Runner,Compact Cars,1.00
+Real Auto,TOYOTA,Sep-11,Hilux,Hilux,Automovil,2.00
+Real Auto,MMC,Sep-11,ASX,ASX,Automovil,1.00
+Real Auto,GM,Oct-11,Spark,Spark,Automovil,2.00
+Real Auto,GM,Oct-11,CRUZE ,CRUZE ,Automovil,1.00
+Real Auto,SUZUKI,Oct-11,SWIFT,SWIFT,Automovil,5.00
+Real Auto,SUZUKI,Oct-11,SX4,SX4,Automovil,3.00
+Real Auto,SUZUKI,Oct-11,JIMNY,JIMNY,Automovil,1.00
+Real Auto,SUZUKI,Oct-11,Vitara,Vitara,Automovil,2.00
+Real Auto,SUZUKI,Oct-11,Vitara,Vitara,Automovil,1.00
+Real Auto,SUZUKI,Oct-11,APV,APV,Automovil,2.00
+Real Auto,TOYOTA,Oct-11,Yaris,Yaris,Automovil,8.00
+Real Auto,TOYOTA,Oct-11,Yaris,Yaris,Automovil,2.00
+Real Auto,TOYOTA,Oct-11,Corolla SD,Corolla SD,Automovil,40.00
+Real Auto,TOYOTA,Oct-11,COASTER,COASTER,Automovil,1.00
+Real Auto,TOYOTA,Oct-11,Hilux,Hilux,Automovil,2.00
+Real Auto,TOYOTA,Oct-11,Hilux,Hilux,Automovil,1.00
+Real Auto,MMC,Oct-11,ASX,ASX,Automovil,3.00
+Real Auto,GM,Nov-11,Spark,Spark,Automovil,4.00
+Real Auto,GM,Nov-11,Colorado DC,Colorado DC,Automovil,2.00
+Real Auto,GM,Nov-11,CMP Van,CMP Van,Automovil,2.00
+Real Auto,GM,Nov-11,CRUZE ,CRUZE ,Automovil,1.00
+Real Auto,SUZUKI,Nov-11,SWIFT,SWIFT,Automovil,5.00
+Real Auto,SUZUKI,Nov-11,SX4,SX4,Automovil,4.00
+Real Auto,SUZUKI,Nov-11,JIMNY,JIMNY,Automovil,2.00
+Real Auto,SUZUKI,Nov-11,Vitara,Vitara,Automovil,1.00
+Real Auto,SUZUKI,Nov-11,APV,APV,Automovil,2.00
+Real Auto,SUZUKI,Nov-11,APV,APV,Automovil,1.00
+Real Auto,TOYOTA,Nov-11,Yaris,Yaris,Automovil,1.00
+Real Auto,TOYOTA,Nov-11,Corolla SD,Corolla SD,Automovil,12.00
+Real Auto,TOYOTA,Nov-11,Rav 4,Rav 4,Automovil,1.00
+Real Auto,TOYOTA,Nov-11,Hiace,Hiace,Automovil,1.00
+Real Auto,MMC,Nov-11,L-200,L-200,Automovil,1.00
+Real Auto,MMC,Nov-11,ASX,ASX,Automovil,1.00
+Real Auto,GM,Dec-11,Spark,Spark,Automovil,2.00
+Real Auto,GM,Dec-11,Aveo,Aveo,Automovil,1.00
+Real Auto,GM,Dec-11,MALIBU,MALIBU,Automovil,1.00
+Real Auto,GM,Dec-11,CRUZE ,CRUZE ,Automovil,2.00
+Real Auto,SUZUKI,Dec-11,SWIFT,SWIFT,Automovil,6.00
+Real Auto,SUZUKI,Dec-11,SX4,SX4,Automovil,4.00
+Real Auto,SUZUKI,Dec-11,JIMNY,JIMNY,Automovil,2.00
+Real Auto,SUZUKI,Dec-11,Grand Vitara,Grand Vitara,Automovil,5.00
+Real Auto,SUZUKI,Dec-11,Grand Vitara,Grand Vitara,Automovil,5.00
+Real Auto,SUZUKI,Dec-11,APV,APV,Automovil,5.00
+Real Auto,SUZUKI,Dec-11,APV,APV,Automovil,5.00
+Real Auto,SUZUKI,Dec-11,APV,APV,Automovil,1.00
+Real Auto,TOYOTA,Dec-11,Yaris,Yaris,Automovil,11.00
+Real Auto,TOYOTA,Dec-11,Yaris,Yaris,Automovil,53.00
+Real Auto,TOYOTA,Dec-11,Corolla SD,Corolla SD,Automovil,10.00
+Real Auto,TOYOTA,Dec-11,Rav 4,Rav 4,Automovil,13.00
+Real Auto,TOYOTA,Dec-11,Hiace,Hiace,Automovil,2.00
+Real Auto,TOYOTA,Dec-11,Hiace,Hiace,Automovil,2.00
+Real Auto,TOYOTA,Dec-11,Hilux,Hilux,Automovil,1.00
+Real Auto,TOYOTA,Dec-11,Hilux,Hilux,Automovil,2.00
+Real Auto,MMC,Dec-11,L-200,L-200,Automovil,1.00
+Real Auto,MMC,Dec-11,L-300,L-300,Automovil,2.00
+Real Auto,MMC,Dec-11,ASX,ASX,Automovil,3.00
+Motorworld,HYUNDAI,Jan-12,i10,i10,Automovil,12.00
+REAL AUTO,TOYOTA,Jan-12,4 Runner,4 Runner,Compact Cars,1.00
+Motorworld,HYUNDAI,Jan-12,Accent,Accent,Automovil,21.00
+REAL AUTO,SUZUKI,Jan-12,APV,APV,Automovil,7.00
+REAL AUTO,MMC,Jan-12,ASX,ASX,Automovil,1.00
+REAL AUTO,GM,Jan-12,Aveo,Aveo,Automovil,2.00
+Motorworld,HYUNDAI,Jan-12,Azera,Azera,Automovil,1.00
+Motorworld,DODGE,Jan-12,Caravan,Caravan,Automovil,2.00
+Motorworld,JEEP,Jan-12,Cherokee,Cherokee,Automovil,1.00
+REAL AUTO,GM,Jan-12,Cmp Van,Cmp Van,Automovil,2.00
+REAL AUTO,GM,Jan-12,Colorado DC,Colorado DC,Automovil,2.00
+BMW,Mini,Jan-12,Cooper,Cooper,Automovil,2.00
+REAL AUTO,TOYOTA,Jan-12,Corolla SD,Corolla SD,Automovil,5.00
+Motorworld,HYUNDAI,Jan-12,County Bus,County Bus,Automovil,1.00
+St Martin Cars,Dacia,Jan-12,Duster,Duster,Large SUV,1.00
+CARIBBEAN AUTO,FORD,Jan-12,Edge,Edge,Automovil,4.00
+Motorworld,HYUNDAI,Jan-12,Elantra,Elantra,Automovil,15.00
+CARIBBEAN AUTO,FORD,Jan-12,Escape,Escape,Automovil,3.00
+CARIBBEAN AUTO,FORD,Jan-12,Explorer,Explorer,Automovil,4.00
+CARIBBEAN AUTO,FORD,Jan-12,Fiesta,Fiesta,Automovil,2.00
+St Martin Cars,Nissan,Jan-12,Frontier,Frontier,Pick-Up,1.00
+CARIBBEAN AUTO,FORD,Jan-12,Fusion,Fusion,Automovil,2.00
+REAL AUTO,TOYOTA,Jan-12,Hiace,Hiace,Automovil,5.00
+REAL AUTO,TOYOTA,Jan-12,Hilux,Hilux,Automovil,1.00
+Motorworld,HYUNDAI,Jan-12,i20,i20,Automovil,6.00
+REAL AUTO,SUZUKI,Jan-12,Jimny,Jimny,Automovil,5.00
+Soremar,Kia,Jan-12,K Truck,K Truck,Automovil,2.00
+St Martin Cars,Dacia,Jan-12,Logan,Logan,Automovil,6.00
+St Martin Cars,Nissan,Jan-12,March,March,Subcompact Cars,12.00
+CARIBBEAN AUTO,MAZDA,Jan-12,Mazda 3,Mazda 3,Automovil,1.00
+CARIBBEAN AUTO,LINCOLN,Jan-12,MKX,MKX,Automovil,2.00
+CARIBBEAN AUTO,FORD,Jan-12,Mustang,Mustang,Automovil,1.00
+St Martin Cars,Nissan,Jan-12,Navara,Navara,Full Size,2.00
+Soremar,Kia,Jan-12,Picanto,Picanto,Automovil,5.00
+CARIBBEAN AUTO,VOLKSWAGEN,Jan-12,Polo,Polo,Automovil,1.00
+St Martin Cars,Nissan,Jan-12,Qashqai,Qashqai,Midsize Cars,3.00
+CARIBBEAN AUTO,FORD,Jan-12,Ranger,Ranger,Automovil,4.00
+REAL AUTO,TOYOTA,Jan-12,Rav 4,Rav 4,Automovil,2.00
+Soremar,Kia,Jan-12,Rio,Rio,Automovil,8.00
+Soremar,Kia,Jan-12,Sorento,Sorento,Automovil,1.00
+Soremar,Kia,Jan-12,Soul,Soul,Automovil,2.00
+REAL AUTO,GM,Jan-12,Spark,Spark,Automovil,1.00
+Soremar,Kia,Jan-12,Sportage,Sportage,Automovil,1.00
+St Martin Cars,Dacia,Jan-12,Stepway,Stepway,Midsize SUV,2.00
+REAL AUTO,SUZUKI,Jan-12,Swift,Swift,Automovil,4.00
+REAL AUTO,SUZUKI,Jan-12,SX4,SX4,Automovil,2.00
+REAL AUTO,GM,Jan-12,Tahoe,Tahoe,Automovil,1.00
+CARIBBEAN AUTO,VOLKSWAGEN,Jan-12,Tiguan,Tiguan,Automovil,2.00
+St Martin Cars,Nissan,Jan-12,Tiida,Tiida,Automovil,3.00
+Motorworld,HYUNDAI,Jan-12,Tucson,Tucson,Automovil,6.00
+St Martin Cars,Nissan,Jan-12,Urvan,Urvan,Commercial Truck,3.00
+REAL AUTO,SUZUKI,Jan-12,Vitara,Vitara,Automovil,4.00
+Motorworld,JEEP,Jan-12,Wrangler,Wrangler,Automovil,4.00
+BMW,BMW,Jan-12,X3,X3,Automovil,4.00
+St Martin Cars,Nissan,Jan-12,X-Trail,X-Trail,Special Cars,5.00
+REAL AUTO,TOYOTA,Jan-12,Yaris,Yaris,Automovil,1.00
+Motorworld,HYUNDAI,Jan-13,i10,i10,Automovil,16.00
+Motorworld,HYUNDAI,Jan-13,Accent,Accent,Automovil,16.00
+St Martin Cars,Nissan,Jan-13,Almera,Almera,Automovil,1.00
+REAL AUTO,MMC,Jan-13,ASX,ASX,Automovil,2.00
+REAL AUTO,GM,Jan-13,Aveo,Aveo,Automovil,1.00
+REAL AUTO,GM,Jan-13,Cmp Van,Cmp Van,Automovil,3.00
+Motorworld,HYUNDAI,Jan-13,County Bus,County Bus,Automovil,1.00
+Motorworld,HONDA,Jan-13,CRV,CRV,Automovil,4.00
+CARIBBEAN AUTO,FORD,Jan-13,Edge,Edge,Automovil,4.00
+Motorworld,HYUNDAI,Jan-13,Elantra,Elantra,Automovil,4.00
+REAL AUTO,SUZUKI,Jan-13,Ertiga,Ertiga,Automovil,1.00
+CARIBBEAN AUTO,FORD,Jan-13,Escape,Escape,Automovil,4.00
+CARIBBEAN AUTO,FORD,Jan-13,Explorer,Explorer,Automovil,2.00
+St Martin Cars,Nissan,Jan-13,Frontier,Frontier,Pick-Up,3.00
+Motorworld,JEEP,Jan-13,Grand Cherokee,Grand Cherokee,Automovil,1.00
+Motorworld,HYUNDAI,Jan-13,H1 Bus/Van,H1 Bus/Van,Automovil,4.00
+Motorworld,HYUNDAI,Jan-13,H100 Truck,H100 Truck,Automovil,2.00
+Motorworld,HYUNDAI,Jan-13,HD 45,HD 45,Automovil,1.00
+Motorworld,HYUNDAI,Jan-13,HD 72,HD 72,Automovil,1.00
+Motorworld,HYUNDAI,Jan-13,i20,i20,Automovil,7.00
+Motorworld,HYUNDAI,Jan-13,i30,i30,Automovil,3.00
+REAL AUTO,SUZUKI,Jan-13,Jimny,Jimny,Automovil,2.00
+Soremar,Kia,Jan-13,K Truck,K Truck,Automovil,1.00
+St Martin Cars,Dacia,Jan-13,Lodgy,Lodgy,Automovil,1.00
+St Martin Cars,Dacia,Jan-13,Logan,Logan,Automovil,3.00
+St Martin Cars,Nissan,Jan-13,March,March,Subcompact Cars,8.00
+CARIBBEAN AUTO,FORD,Jan-13,Mustang,Mustang,Automovil,1.00
+St Martin Cars,Nissan,Jan-13,Navara,Navara,Full Size,1.00
+Soremar,Kia,Jan-13,Picanto,Picanto,Automovil,15.00
+REAL AUTO,TOYOTA,Jan-13,Prado,Prado,Automovil,1.00
+St Martin Cars,Nissan,Jan-13,Qashqai,Qashqai,Midsize Cars,2.00
+CARIBBEAN AUTO,FORD,Jan-13,Ranger,Ranger,Automovil,2.00
+REAL AUTO,TOYOTA,Jan-13,Rav 4,Rav 4,Automovil,2.00
+Motorworld,HONDA,Jan-13,Ridgeline,Ridgeline,Automovil,1.00
+Soremar,Kia,Jan-13,Rio,Rio,Automovil,6.00
+St Martin Cars,Dacia,Jan-13,Sandero,Sandero,Automovil,2.00
+St Martin Cars,Nissan,Jan-13,Sentra,Sentra,Luxury SUV,1.00
+REAL AUTO,GM,Jan-13,Sonic,Sonic,Automovil,6.00
+Soremar,Kia,Jan-13,Sportage,Sportage,Automovil,2.00
+St Martin Cars,Dacia,Jan-13,Stepway,Stepway,Midsize SUV,4.00
+REAL AUTO,SUZUKI,Jan-13,Swift,Swift,Automovil,5.00
+REAL AUTO,SUZUKI,Jan-13,SX4,SX4,Automovil,1.00
+REAL AUTO,GM,Jan-13,Tahoe,Tahoe,Automovil,1.00
+CARIBBEAN AUTO,FORD,Jan-13,Taurus,Taurus,Automovil,1.00
+CARIBBEAN AUTO,VOLKSWAGEN,Jan-13,Tiguan,Tiguan,Automovil,1.00
+St Martin Cars,Nissan,Jan-13,Tiida,Tiida,Automovil,1.00
+CARIBBEAN AUTO,VOLKSWAGEN,Jan-13,Touareg,Touareg,Automovil,1.00
+REAL AUTO,GM,Jan-13,Traverse,Traverse,Automovil,1.00
+Motorworld,HYUNDAI,Jan-13,Tucson,Tucson,Automovil,31.00
+St Martin Cars,Renault,Jan-13,Twingo,Twingo,Automovil,2.00
+St Martin Cars,Nissan,Jan-13,Urvan,Urvan,Commercial Truck,2.00
+REAL AUTO,SUZUKI,Jan-13,Vitara,Vitara,Automovil,2.00
+BMW,BMW,Jan-13,X1,X1,Automovil,1.00
+BMW,BMW,Jan-13,X3,X3,Automovil,1.00
+BMW,BMW,Jan-13,X6,X6,Automovil,1.00
+St Martin Cars,Nissan,Jan-13,X-Trail,X-Trail,Special Cars,1.00
+REAL AUTO,TOYOTA,Jan-13,Yaris,Yaris,Automovil,2.00
+Motorworld,HYUNDAI,Jan-14,i10,i10,Automovil,18.00
+Motorworld,HYUNDAI,Jan-14,Accent,Accent,Automovil,6.00
+REAL AUTO,SUZUKI,Jan-14,APV,APV,Automovil,1.00
+REAL AUTO,MMC,Jan-14,ASX,ASX,Automovil,4.00
+St Martin Cars,Renault,Jan-14,Captur,Captur,Automovil,5.00
+Motorworld,DODGE,Jan-14,Caravan,Caravan,Automovil,1.00
+Soremar,Kia,Jan-14,Cerato,Cerato,Automovil,1.00
+REAL AUTO,GM,Jan-14,Cmp Van,Cmp Van,Automovil,1.00
+BMW,Mini,Jan-14,Cooper,Cooper,Automovil,1.00
+REAL AUTO,TOYOTA,Jan-14,Corolla SD,Corolla SD,Automovil,3.00
+REAL AUTO,GM,Jan-14,Cruze ,Cruze ,Automovil,1.00
+Motorworld,HONDA,Jan-14,CRV,CRV,Automovil,2.00
+St Martin Cars,Dacia,Jan-14,Duster,Duster,Large SUV,1.00
+CARIBBEAN AUTO,FORD,Jan-14,Edge,Edge,Automovil,3.00
+Motorworld,HYUNDAI,Jan-14,Elantra,Elantra,Automovil,7.00
+CARIBBEAN AUTO,FORD,Jan-14,Escape,Escape,Automovil,2.00
+CARIBBEAN AUTO,FORD,Jan-14,Explorer,Explorer,Automovil,3.00
+St Martin Cars,Nissan,Jan-14,Frontier,Frontier,Pick-Up,2.00
+CARIBBEAN AUTO,FORD,Jan-14,Fusion,Fusion,Automovil,1.00
+Motorworld,HYUNDAI,Jan-14,H1 Bus/Van,H1 Bus/Van,Automovil,4.00
+Motorworld,HYUNDAI,Jan-14,H100 Truck,H100 Truck,Automovil,2.00
+Motorworld,HYUNDAI,Jan-14,HD 45,HD 45,Automovil,1.00
+REAL AUTO,TOYOTA,Jan-14,Hiace,Hiace,Automovil,1.00
+REAL AUTO,TOYOTA,Jan-14,Hilux,Hilux,Automovil,1.00
+Motorworld,HYUNDAI,Jan-14,i20,i20,Automovil,15.00
+Motorworld,HYUNDAI,Jan-14,i30,i30,Automovil,2.00
+Motorworld,HYUNDAI,Jan-14,i40,i40,Automovil,1.00
+REAL AUTO,TOYOTA,Jan-14,Innova,Innova,Automovil,1.00
+Soremar,Kia,Jan-14,K Truck,K Truck,Automovil,1.00
+St Martin Cars,Nissan,Jan-14,March,March,Subcompact Cars,7.00
+CARIBBEAN AUTO,LINCOLN,Jan-14,MKX,MKX,Automovil,1.00
+St Martin Cars,Nissan,Jan-14,Murano,Murano,Automovil,1.00
+CARIBBEAN AUTO,FORD,Jan-14,Mustang,Mustang,Automovil,1.00
+St Martin Cars,Nissan,Jan-14,Navara,Navara,Full Size,2.00
+Soremar,Kia,Jan-14,Picanto,Picanto,Automovil,19.00
+REAL AUTO,TOYOTA,Jan-14,Rav 4,Rav 4,Automovil,3.00
+Soremar,Kia,Jan-14,Rio,Rio,Automovil,6.00
+Motorworld,HYUNDAI,Jan-14,Santa Fe,Santa Fe,Automovil,4.00
+St Martin Cars,Nissan,Jan-14,Sentra,Sentra,Luxury SUV,1.00
+REAL AUTO,GM,Jan-14,Sonic,Sonic,Automovil,1.00
+Soremar,Kia,Jan-14,Soul,Soul,Automovil,2.00
+Soremar,Kia,Jan-14,Sportage,Sportage,Automovil,1.00
+St Martin Cars,Dacia,Jan-14,Stepway,Stepway,Midsize SUV,3.00
+REAL AUTO,SUZUKI,Jan-14,Swift,Swift,Automovil,2.00
+REAL AUTO,SUZUKI,Jan-14,SX4,SX4,Automovil,3.00
+St Martin Cars,Nissan,Jan-14,Teana,Teana,Automovil,1.00
+CARIBBEAN AUTO,VOLKSWAGEN,Jan-14,Tiguan,Tiguan,Automovil,2.00
+REAL AUTO,GM,Jan-14,Traverse,Traverse,Automovil,1.00
+Motorworld,HYUNDAI,Jan-14,Tucson,Tucson,Automovil,12.00
+St Martin Cars,Nissan,Jan-14,Urvan,Urvan,Commercial Truck,3.00
+REAL AUTO,SUZUKI,Jan-14,Vitara,Vitara,Automovil,1.00
+St Martin Cars,Nissan,Jan-14,W41,W41,Automovil,4.00
+Motorworld,JEEP,Jan-14,Wrangler,Wrangler,Automovil,5.00
+BMW,BMW,Jan-14,X3,X3,Automovil,3.00
+BMW,BMW,Jan-14,X6,X6,Automovil,1.00
+St Martin Cars,Nissan,Jan-14,X-Trail,X-Trail,Special Cars,2.00
+REAL AUTO,TOYOTA,Jan-14,Yaris,Yaris,Automovil,5.00
+Motorworld,HYUNDAI,Jan-15,Accent,Accent,Automovil,21.00
+Motorworld,JEEP,Apr-14,Wrangler,Wrangler,Automovil,2.00
+Motorworld,HYUNDAI,Mar-14,i10,i10,Automovil,16.00
+Motorworld,HYUNDAI,Mar-14,i20,i20,Automovil,2.00
+Motorworld,HYUNDAI,Mar-14,Veloster,Veloster,Automovil,4.00
+Motorworld,HYUNDAI,Mar-14,H1 Bus/Van,H1 Bus/Van,Automovil,2.00
+Motorworld,HYUNDAI,Mar-14,H100 Truck,H100 Truck,Automovil,5.00
+Motorworld,HYUNDAI,Mar-14,HD 72,HD 72,Automovil,1.00
+Motorworld,JEEP,Mar-14,Grand Cherokee,Grand Cherokee,Automovil,3.00
+Motorworld,HYUNDAI,Aug-14,i10,i10,Automovil,2.00
+Motorworld,HYUNDAI,Aug-14,Grand I10,Grand I10,Automovil,11.00
+Motorworld,HYUNDAI,Aug-14,i20,i20,Automovil,2.00
+Motorworld,HYUNDAI,Aug-14,i30,i30,Automovil,2.00
